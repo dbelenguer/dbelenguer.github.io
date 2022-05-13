@@ -1,4 +1,6 @@
-# David Belenguer Ruiz CV
+# CV
+
+## Contact details
 
 - [david.belenguer.ruiz@gmail.com](mailto:david.belenguer.ruiz@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/dbelenguer/)
