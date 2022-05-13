@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# David Belenguer Ruiz CV
 
-You can use the [editor on GitHub](https://github.com/dbelenguer/dbelenguer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- [david.belenguer.ruiz@gmail.com](mailto:david.belenguer.ruiz@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/dbelenguer/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Professional experience
 
-### Markdown
+### Software Engineer at **Marfeel**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From February 2019 to June 2021 (2 years and a half)
 
-```markdown
-Syntax highlighted code block
+At Marfeel I was part of one of the core platform teams where I was shipping performant, reliable and maintainable software that scales, moving fast without compromising neither quality nor requirements leveraging an extensive test suite and a powerful CI system to safely put in production several times a day, with ownership throughout the entire lifecycle of the feature as a core value.
 
-# Header 1
-## Header 2
-### Header 3
+When I started there was a monolith running the entire product serving 1B sessions per month and we started the refactoring to a microservices architecture (first with some critical parts) and also creating a new product with it that revolutionize the way publishers get insights from their content. It’s a highly observable and heterogeneous system where a non-blocking programming model being used for high throughput.
 
-- Bulleted
-- List
+Here's an small set of the technologies used:
 
-1. Numbered
-2. List
+- Java
+- Spring (MVC, Security, Boot, etc.)
+- Project reactor (reactive streams)
+- Kubernetes and Docker
+- Relational and non-relational databases (MongoDb, Mysql)
+- Zipkin
+- ELK, Prometheus and Grafana
+- Hazelcast
+- EhCache
+- AWS
+- Testing
+  - Testcontainers (aws localstack)
+  - Spring cloud contract
 
-**Bold** and _Italic_ and `Code` text
+### Software Engineer at **Sigma Gestión Universitaria**
 
-[Link](url) and ![Image](src)
-```
+From September 2014 to June 2021 (4 years and a half)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Sigma is a company created by some of the biggest universities in Spain in order to produce a common software to handle all the academical and research processes.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dbelenguer/dbelenguer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+During my 4 years there I worked in the backend side developing new APIs to connect services and modernize some of the processes of the company and I end up leading the mobile department, managing the releases and leading the new developments.
