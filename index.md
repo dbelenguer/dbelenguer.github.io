@@ -30,9 +30,8 @@ Here's an small set of the technologies used:
 - Hazelcast
 - EhCache
 - AWS
-- Testing
-  - Testcontainers (aws localstack)
-  - Spring cloud contract
+- Testcontainers (aws localstack)
+- Spring cloud contract
 
 ### Software Engineer at **Sigma Gestión Universitaria** - From September 2014 to June 2021 (4 years and a half)
 
