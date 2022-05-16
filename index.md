@@ -1,4 +1,4 @@
-# CV
+# David Belenguer Ruiz
 
 ## Contact details
 
@@ -38,3 +38,7 @@ From September 2014 to June 2021 (4 years and a half)
 Sigma is a company created by some of the biggest universities in Spain in order to produce a common software to handle all the academical and research processes.
 
 During my 4 years there I worked in the backend side developing new APIs to connect services and modernize some of the processes of the company and I end up leading the mobile department, managing the releases and leading the new developments.
+
+## Education
+
+### Certificate of Higher Education in Software Development | 2013 - 2015
