@@ -2,7 +2,7 @@
     "name": "dbelenguer.github.io",
     "version": "1.0.0",
     "scripts": {
-        "pdf": "node node/pdf.mjs"
+        "to-pdf": "markdown-pdf -s pdf/custom.css -o pdf/dbelenguer-cv.pdf index.md"
     },
     "dependencies": {
         "markdown-pdf": "^10.0.0"

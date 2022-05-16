@@ -1,0 +1,7 @@
+a[href]:after {
+    content : ""
+}
+
+body {
+    font-size: 0.625em;
+}
