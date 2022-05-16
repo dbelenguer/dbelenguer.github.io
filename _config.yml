@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 title: David Belenguer Ruiz
 logo: /assets/img/profile-pic.jpg
+description: <a href="pdf/dbelenguer-cv.pdf">PDF version</a>
+exclude:
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - node
+  - package.json
+  - package-lock.json
