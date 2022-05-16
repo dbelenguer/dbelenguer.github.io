@@ -9,3 +9,5 @@ exclude:
   - node
   - package.json
   - package-lock.json
+  - pdf/custom.css
+  - README.md
