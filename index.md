@@ -1,4 +1,9 @@
-# David Belenguer Ruiz
+---
+title: David Belenguer CV
+layout: cv
+---
+
+# David Belenguer
 
 ## Contact details
 
@@ -37,4 +42,4 @@ During my 4 years there I worked in the backend side developing new APIs to conn
 
 ## Education
 
-### Certificate of Higher Education in Software Development | 2013 - 2015
+### Certificate of Higher Education in Software Development - From 2013 to 2015
